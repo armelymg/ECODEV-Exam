@@ -1,4 +1,4 @@
-# ECODEV-Exam - Test de recrutement ECODEV
+# Test de recrutement ECODEV
 
 Ce micro projet consiste à concevoir une page web qui sert à calculer la vitesse de frappe d'un individu.
 Un texte d'exemple lui est présenté, qu'il doit saisir dans l'espace réservé à cet effet. Une durée de 60 secondes est prévue pour comptabiliser le nombre de frappes pendant que l'utilisateur saisi.
@@ -8,12 +8,12 @@ Le pourcentage de précision représente à combien pourcent le texte saisi est 
 
 A la fin un message est affiché à l'utilisateur en lui attribuant une note de sa performance comme suit:
 
-120 mpm ou 600 cpm et plus  --> A
- 70 mpm ou 350 cpm et plus  --> B
- 60 mpm ou 300 cpm et plus  --> C
- 50 mpm ou 250 cpm et plus  --> D
- 40 mpm ou 200 cpm et plus  --> E
- en dessous                 --> F
+- 120 mpm ou 600 cpm et plus  --> A
+- 70 mpm ou 350 cpm et plus  --> B
+- 60 mpm ou 300 cpm et plus  --> C
+- 50 mpm ou 250 cpm et plus  --> D
+- 40 mpm ou 200 cpm et plus  --> E
+- en dessous                 --> F
 
 
 Vous devez:
