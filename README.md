@@ -1,5 +1,4 @@
-# ECODEV-Exam
-Test de recrutement ECODEV
+# ECODEV-Exam - Test de recrutement ECODEV
 
 Ce micro projet consiste à concevoir une page web qui sert à calculer la vitesse de frappe d'un individu.
 Un texte d'exemple lui est présenté, qu'il doit saisir dans l'espace réservé à cet effet. Une durée de 60 secondes est prévue pour comptabiliser le nombre de frappes pendant que l'utilisateur saisi.
